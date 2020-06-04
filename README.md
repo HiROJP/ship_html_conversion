@@ -1,7 +1,7 @@
 # ship_html_conversion
 概要:
 
-「船ページ変換くん for wiki」はStar Citizen JP Wiki（https://starcitizen.fandom.com/ja/wiki/Starcitizen_Wiki）専用ツールです。
+「船ページ変換くん for wiki」はStar Citizen JP Wiki（ https://starcitizen.fandom.com/ja/wiki/Starcitizen_Wiki ） 専用ツールです。
 Star Citizen公式サイトにある好きな船ページのURLを入力する事で、データを再整理しWikiのフォーマットに適したHTMLを生成します。
 
 
