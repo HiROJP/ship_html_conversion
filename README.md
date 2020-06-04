@@ -1,4 +1,9 @@
 # ship_html_conversion
+開発環境
+ruby 2.3.3p222 (2016-11-21 revision 56859)
+ruby版tk
+
+
 概要:
 
 「船ページ変換くん for wiki」はStar Citizen JP Wiki（ https://starcitizen.fandom.com/ja/wiki/Starcitizen_Wiki ） 専用ツールです。
