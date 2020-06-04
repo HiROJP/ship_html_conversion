@@ -13,7 +13,7 @@ Star Citizen公式サイトにある好きな船ページのURLを入力する�
 
 3. 中央部のテキストスペースに生成されたHTMLが表示されるので、コピーします。
 
-4. Star Citizen JP Wiki（https://starcitizen.fandom.com/ja/wiki/Starcitizen_Wiki）へアクセスし、新規ページを作成します。（白紙のページを選択してください）
+4. Star Citizen JP Wiki（ https://starcitizen.fandom.com/ja/wiki/Starcitizen_Wiki ）へアクセスし、新規ページを作成します。（白紙のページを選択してください）
 
 5. 編集画面に移行し、「ソースモード」に切り替えてください。
 
